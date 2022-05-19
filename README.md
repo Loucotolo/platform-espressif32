@@ -8,7 +8,7 @@
 
 ```ini
 [env:stable]
-platform = https://github.com/tv4you2016/platform-espressif32/archive/refs/tags/v3.42.zip
+platform = https://github.com/Loucotolo/platform-espressif32/archive/refs/tags/v3.42.zip
 board = ...
 ...
 ```
